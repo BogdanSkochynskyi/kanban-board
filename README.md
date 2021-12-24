@@ -3,7 +3,7 @@ This project is started as practical way to learn React JS. From simplies TODO t
 
 ## Features
 - [x] Initial project setup.
-- [] TODO - In progress - Done table view.
+- [x] TODO - In progress - Done table view.
 - [] Logic of CRUD operations without DB support.
 - [] DB and server side integration.
 
